@@ -194,3 +194,36 @@ if (month === "february") {
 }
 
 console.log(month.charAt(0).toUpperCase() + month.slice(1) + " has " + days);
+
+
+// considering leap year
+// using a function; too early, I know. 
+function getDaysInMonth(monthName) {
+  const monthDays = {
+    january: 31,
+    february: 28,
+    march: 31,
+    april: 30,
+    may: 31,
+    june: 30,
+    july: 31,
+    august: 31,
+    september: 30,
+    october: 31,
+    november: 30,
+    december: 31
+  };
+  
+  const isLeapYear = year => (year % 4 === 0 && year % 100 !== 0) || year % 400 === 0;
+  const currentYear = new Date().getFullYear();
+  
+  if(monthName.toLowerCase() === 'february') {
+    return isLeapYear(currentYear) ? 29 : 28;
+  } else {
+    return monthDays[monthName.toLowerCase()];
+  }
+}
+
+const monthName = 'February';
+const daysInMonth = getDaysInMonth(monthName);
+console.log(`${monthName} has ${daysInMonth} days.`);
