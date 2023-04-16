@@ -300,7 +300,7 @@ YYY-MM-DD HH:mm eg. 2012-01-02 07:05
 
 
 
-Solution
+// Solution
 
 let date = new Date();
 let year = date.getFullYear();
@@ -310,7 +310,6 @@ let hour = ('0' + date.getHours()).slice(-2);
 let minute = ('0' + date.getMinutes()).slice(-2);
 let formattedDate = `${year}-${month}-${day} ${hour}:${minute}`;
 console.log(formattedDate); // output: "2023-04-13 08:30"
+
+
 */
-
-
-// some solutions have been commented out due to redeclaring block-scoped variables. But they've all been tested. 
