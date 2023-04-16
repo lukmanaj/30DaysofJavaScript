@@ -2,7 +2,7 @@
 
 This repository will contain my attempts for the exercises given in the  30 Days of JavaScript challenge as can be found [here](<https://github.com/Asabeneh/30-Days-Of-JavaScript>).
 
-The breakdown of the content of each day is as follows:
+The breakdown of the content covered in each day is as follows:
 
 - 01_Day_Introduction
 - 02_Day_Data_types
