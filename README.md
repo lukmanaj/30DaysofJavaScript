@@ -21,7 +21,7 @@ The breakdown of the content covered in each day is as follows:
 |13 |[Console_object_methods](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_13_Console_object_methods/day_13_exercises.js>)|
 |14 | [Error_handling](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_14_Error_handling/error_handing.md>)|
 |15 |[Classes](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_15_Classes/day_15_exercises.js>)|
-|16|JSON|
+|16|[JSON](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_16_JSON/day_16_exercises.js>)|
 |17|Web_storages|
 |18|Promises|
 |19|Closures|
