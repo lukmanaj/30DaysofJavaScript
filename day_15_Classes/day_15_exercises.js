@@ -250,13 +250,34 @@ class PersonAccount {
       return `${this.firstname} ${this.lastname}\nIncome: ${this.totalIncome()}\nExpense: ${this.totalExpense()}\nBalance: ${this.accountBalance()}`;
     }
   }
+
 const lukman = new PersonAccount('Lukman', 'Aliyu')
+
 console.log(lukman)
 lukman.addExpense('Purchases',5000)
 lukman.addExpense('Online course fees',40000)
 lukman.addIncome('salary',70000)
 lukman.addIncome('side hustle',100000)
+// let's play around with  the console object to close this out. 
+console.group('Expenses and Incomes')
+console.table(lukman.expenses)
+console.table(lukman.incomes)
+console.groupEnd('Expenses and Purchases')
+
+
+console.group('Total expenses')
 console.log(lukman.totalExpense())
+console.groupEnd('Total expenses')
+
+console.group('Total income')
 console.log(lukman.totalIncome())
+console.groupEnd('Total income')
+
+console.group('Account balance')
 console.log(lukman.accountBalance())
+console.groupEnd('Account balance')
+
+console.group('Account Info')
 console.log(lukman.accountInfo())
+console.groupEnd('Account Info')
+
