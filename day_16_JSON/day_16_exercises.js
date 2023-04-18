@@ -157,3 +157,5 @@ for (const person in txtObj) {
 }
 
 console.log(`${mostSkilled} is the most skilled individual with ${highestSkillsCount} skills.`);
+// Asab is the most skilled individual with 8 skills.
+
