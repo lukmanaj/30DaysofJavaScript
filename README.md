@@ -25,7 +25,7 @@ The breakdown of the content covered in each day is as follows:
 |17|[Web_storages](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_17_Web_storages/day_17_exercises.js>)|
 |18|[Promises](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_18_Promises/day_18_exercises.mjs>)|
 |19|[Closures](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_19_Closures/day_19_exercises.js>)|
-|20|Writing_clean_codes|
+|20|[Writing_clean_codes](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_20_Writing_clean_codes/writing_clean_codes_in_js.md>)|
 |21|DOM|
 |22|Manipulating_DOM_object|
 |23|Event_listeners|
