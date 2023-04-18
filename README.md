@@ -7,7 +7,7 @@ The breakdown of the content covered in each day is as follows:
 | Day | Topic/ Concept |
 | --- | ---- |
 |01|Introduction|
-|02|_[Data_types](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_02_Data_types/day_02_exercises.js>)|
+|02|[Data_types](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_02_Data_types/day_02_exercises.js>)|
 |03|[Booleans_operators_date](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_03_Booleans_operators_date/day_03_exercises.js>)|
 |04| [Conditionals](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_04_Conditionals/day_04_exercises.js>)|
 |05|[Arrays](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_05_Arrays/day_05_exercises.js>)|
