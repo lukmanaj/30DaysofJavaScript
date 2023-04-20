@@ -1,7 +1,7 @@
 const countriesContainer = document.querySelector(".countries-wrapper");
 const totalCountries = document.querySelector("#total-countries");
 
-totalCountries.textContent = `Total Countries: ${countries.length}`;
+totalCountries.textContent = `Total Number of Countries: ${countries.length}`;
 
 const style = `
   .countries-container {
@@ -19,8 +19,8 @@ const style = `
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    width: calc(200px * 4 + 16px * 3);
-    height: calc(80px * 10 + 16px * 9);
+    width: 100%;
+    height: 100%;
     border: 1px solid #000;
     padding: 20px;
     box-sizing: border-box;
@@ -28,7 +28,7 @@ const style = `
 
   .country {
     display: inline-block;
-    width: 200px;
+    width: 260px;
     height: 80px;
     text-align: center;
     line-height: 80px;
@@ -50,3 +50,6 @@ countries.forEach((country) => {
   countryEl.textContent = country;
   countriesContainer.appendChild(countryEl);
 });
+
+const header = document.querySelector("header");
+header.style.textAlign = "center";
