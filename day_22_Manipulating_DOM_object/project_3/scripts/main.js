@@ -118,6 +118,7 @@ asabenehChallenges2020.challenges.forEach(x => {
   topics.style.listStyleType = 'none';
   topics.style.width = '80%';
   topics.style.margin = 'auto';
+
   
   dropdownSpan.appendChild(dropdown);
   // 3 
