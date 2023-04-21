@@ -60,7 +60,9 @@ wrapper.appendChild(h3);
 
 // date headings     
 let date = document.createElement('h4');
-date.textContent = getDate();
+setInterval(() =>{
+  date.textContent = getDate();
+}, 1000);
 date.style.fontSize = '12px';
 date.style.padding = '6px';
 date.style.margin = 'auto';
