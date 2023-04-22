@@ -26,7 +26,7 @@ The breakdown of the content covered in each day is as follows:
 |18|[Promises](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_18_Promises/day_18_exercises.mjs>)|
 |19|[Closures](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_19_Closures/day_19_exercises.js>)|
 |20|[Writing_clean_codes](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_20_Writing_clean_codes/writing_clean_codes_in_js.md>)|
-|21|[DOM](<https://github.com/lukmanaj/30DaysofJavaScript/blob/main/day_21_DOM/day_21_exercises_part_one/index.html>)|
+|21|[DOM](<https://github.com/lukmanaj/30DaysofJavaScript/tree/main/day_21_DOM>)|
 |22|[Manipulating_DOM_object](<https://github.com/lukmanaj/30DaysofJavaScript/tree/main/day_22_Manipulating_DOM_object>)|
 |23|[Event_listeners](<https://github.com/lukmanaj/30DaysofJavaScript/tree/main/day_23_Event_listeners>)|
 |24|Project_solar_system|
