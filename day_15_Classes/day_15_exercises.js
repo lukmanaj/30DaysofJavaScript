@@ -2,6 +2,7 @@
 // Day 15
 // Classes
 
+
 // Exercises Level One
 // Create an Animal class. The class will have name, age, color, legs properties and create different methods
 class Animal {
