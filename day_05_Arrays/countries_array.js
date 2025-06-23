@@ -35,7 +35,7 @@ const countriesArr = [
   'Chad',
   'Chile',
   'China',
-  'Colombi',
+  'Colombia',
   'Comoros',
   'Congo (Brazzaville)',
   'Congo',
